@@ -58,14 +58,7 @@ export default function Github() {
 
     const fetchData = async () => {
         const res = await fetch(
-            `https://api.github.com/users/${GITHUB_USERNAME}`,
-            {
-                headers: {
-                    authorization: `token ${
-                        import.meta.env.VITE_REACT_APP_GITHUB
-                    }`,
-                },
-            }
+            `https://api.github.com/users/${GITHUB_USERNAME}`
         );
         const data = await res.json();
         setUser(data);

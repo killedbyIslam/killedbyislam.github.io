@@ -93,14 +93,7 @@ export function Contact() {
 
     const fetchData = async () => {
         const res = await fetch(
-            "https://api.github.com/users/killedbyislam/repos",
-            {
-                headers: {
-                    authorization: `token ${
-                        import.meta.env.VITE_REACT_APP_GITHUB
-                    }`,
-                },
-            }
+            "https://api.github.com/users/killedbyislam/repos"
         );
         const data = await res.json();
         setRepos(

@@ -53,12 +53,12 @@ Start the server
 ## Author
 
 <a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=na0495/mario-with-js"/>
+  <img src = ""/>
 </a>
 
 <br>
 
-👤 **na0495**
+👤 **killedbyislam**
 
 - Website: https://github.com/killedbyislam
 - Twitter: [@killedbyislam](https://twitter.com/killedbyislam)

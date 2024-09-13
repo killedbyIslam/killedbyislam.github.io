@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my islamic republic of islam == killer terrorism 👋</h1>
+<h1 align="center">Welcome islamic republic == Big lie / Ugly terrorism 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="src/assets/killedbyislam.png" width="400" height="500" >
+  <img src="src/assets/killed.png" width="400" height="500" alt="islamic terrorism of iran" >
 </div>
 
 ## 🏠 [Homepage](https://killedbyislam.github.io)
@@ -60,7 +60,7 @@ Start the server
 
 👤 **killedbyislam**
 
-- Website: https://github.com/killedbyislam
+- Website: https://killedbyislam.github.io
 - Twitter: [@killedbyislam](https://twitter.com/killedbyislam)
 - Github: [@killedbyislam](https://github.com/killedbyislam)
 

@@ -168,7 +168,8 @@ export function Contact() {
                         presents the most important published information in
                         chronological order.
                     </Text>
-                    <img src={killedbyisl} alt="" height={"459px"} />
+                    <div style={{display: "flex", flexDirection: "column", alignItems: "center"}}>
+                    <img src={killedbyisl} alt="" height={"459px"} width={"359px"} />
                     <Anchor
                         href="https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
                         variant="gradient"
@@ -177,9 +178,11 @@ export function Contact() {
                         fz="lg"
                         target="_blank"
                         underline="always"
+                        style={{backgroundColor: "black", padding: "5px", marginTop: "5px", color: "red"}}
                     >
                         List of victims
                     </Anchor>
+                    </div>
                 </div>
                 <div className="victims">
                     <Grid>

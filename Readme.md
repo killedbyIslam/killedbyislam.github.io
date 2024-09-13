@@ -5,7 +5,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/killedbyislam" target="_blank">
-    <img alt="Twitter: killedbyislam" src="https://img.shields.io/twitter/follow/na0495.svg?style=social" />
+    <img alt="Twitter: killedbyislam" src="https://img.shields.io/twitter/follow/killedbyislam.png?style=social" />
   </a>
 </p>
 
